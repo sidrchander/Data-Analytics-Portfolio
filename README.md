@@ -1,4 +1,4 @@
-##### Senior Data Analyst
+# Senior Data Analyst
 
 Greetings, fellow data enthusiasts! Welcome to my Data Analytics Portfolio. Here, I aim to provide a comprehensive overview of my expertise, past experiences, and projects in the field of data analytics.
 
