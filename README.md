@@ -13,16 +13,21 @@ Throughout my career journey, I have had the privilege of working with diverse t
 - United Parcel Services (UPS): In my previous role, I spearheaded several data analytics initiatives aimed at optimizing operational processes and identifying areas for improvement. By leveraging advanced statistical techniques and visualization tools, I was able to uncover actionable insights that led to significant cost savings and process efficiencies.
 
 ### Portfolio Projects
-Project 1: [Project Name]
+- Project 1: [Project Name]
+
 Description: [Brief description of the project, including objectives and methodologies employed.]
+
 Technologies Used: [List of technologies, tools, and programming languages utilized.]
+
 Key Achievements: [Highlight notable achievements or insights derived from the project.]
 
-Project 2: [Project Name]
+- Project 2: [Project Name]
+
 Description: [Brief description of the project, including objectives and methodologies employed.]
+
 Technologies Used: [List of technologies, tools, and programming languages utilized.]
 
-### Key Achievements: [Highlight notable achievements or insights derived from the project.]
+Key Achievements: [Highlight notable achievements or insights derived from the project.]
 
 ### Conclusion
 In conclusion, my Data Analytics Portfolio reflects my commitment to excellence, innovation, and continuous learning in the field of data analytics. I am passionate about leveraging data to drive positive change and am excited about the opportunity to collaborate on future projects and initiatives.
