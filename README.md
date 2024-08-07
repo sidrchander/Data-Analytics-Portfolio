@@ -1,4 +1,4 @@
-# Data Analyst and Business Intelligence Professional
+# Data Analystics and Business Intelligence Professional
 
 Greetings, fellow data enthusiasts! Welcome to my Data Analytics Portfolio. Here, I aim to provide a comprehensive overview of my expertise, past experiences, and projects in the field of data analytics.
 
